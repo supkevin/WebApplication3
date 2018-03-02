@@ -1,0 +1,47 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Sfawdms_out - 複製", ".", "{AF13A1C0-5165-424F-8488-D1B3ECDD0F70}"
+	ProjectSection(WebsiteProperties) = preProject
+		SccProjectName = ""
+		SccAuxPath = ""
+		SccLocalPath = ""
+		SccProvider = ""
+		TargetFramework = "3.5"
+		Debug.AspNetCompiler.VirtualPath = "/Sfawdms_out"
+		Debug.AspNetCompiler.PhysicalPath = "..\Sfawdms_out\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\Sfawdms_out\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/Sfawdms_out"
+		Release.AspNetCompiler.PhysicalPath = "..\Sfawdms_out\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\Sfawdms_out\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "49745"
+	EndProjectSection
+	ProjectSection(SvnOrigin) = preProject
+		@Keys = Enlist
+		Enlist = Required
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AF13A1C0-5165-424F-8488-D1B3ECDD0F70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF13A1C0-5165-424F-8488-D1B3ECDD0F70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(SubversionScc) = preSolution
+		Svn-Managed = True
+		Manager = AnkhSVN - Subversion Support for Visual Studio
+	EndGlobalSection
+EndGlobal

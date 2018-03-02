@@ -1,0 +1,27 @@
+body {
+  font-family:微軟正黑體;
+}
+
+#from-area {
+  padding:30px;
+  padding-top:10px;
+}
+
+#notetext {
+  margin:0 auto;
+}
+
+.modal-dialog {
+  position: absolute;
+  top: 200px;
+  right: 0px;
+  bottom: 0;
+  left: 0;
+  z-index: 10040;
+  /*overflow: auto;*/
+  /*overflow-y: auto;*/
+}
+.table-text {
+  color:#000
+}
+

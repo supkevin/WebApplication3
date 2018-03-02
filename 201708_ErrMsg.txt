@@ -1,0 +1,25 @@
+2017/08/19 19:11:16 Error Message:執行Email發送時發生錯誤，原因為：傳送郵件失敗。
+2017/08/21 10:49:25 Error Message:使用者 'sa' 的登入失敗。
+2017/08/21 11:07:23 Error Message:執行Email發送時發生錯誤，原因為：傳送郵件失敗。
+2017/08/21 11:11:00 Error Message:執行Email發送時發生錯誤，原因為：傳送郵件失敗。
+2017/08/21 12:27:56 Error Message:執行Email發送時發生錯誤，原因為：傳送郵件失敗。
+2017/08/21 13:16:23 Error Message:執行Email發送時發生錯誤，原因為：傳送郵件失敗。
+2017/08/21 13:44:16 Error Message:執行Email發送時發生錯誤，原因為：傳送郵件失敗。
+2017/08/21 14:09:24 Error Message:執行Email發送時發生錯誤，原因為：傳送郵件失敗。
+2017/08/21 15:11:30 Error Message:執行Email發送時發生錯誤，原因為：傳送郵件失敗。
+2017/08/21 15:15:54 Error Message:執行Email發送時發生錯誤，原因為：傳送郵件失敗。
+2017/08/22 06:58:40 Error Message:執行Email發送時發生錯誤，原因為：傳送郵件失敗。
+2017/08/22 09:12:49 Error Message:執行Email發送時發生錯誤，原因為：傳送郵件失敗。
+2017/08/22 10:33:27 Error Message:執行Email發送時發生錯誤，原因為：SMTP 伺服器需要安全連接，或用戶端未經驗證。 伺服器回應為: 5.7.1 Client was not authenticated
+2017/08/22 10:41:48 Error Message:執行Email發送時發生錯誤，原因為：SMTP 伺服器需要安全連接，或用戶端未經驗證。 伺服器回應為: 5.7.1 Client was not authenticated
+2017/08/22 10:56:29 Error Message:執行Email發送時發生錯誤，原因為：SMTP 伺服器需要安全連接，或用戶端未經驗證。 伺服器回應為: 5.7.1 Client was not authenticated
+2017/08/22 20:16:43 Error Message:執行Email發送時發生錯誤，原因為：傳送郵件失敗。
+2017/08/23 13:03:27 Error Message:執行Email發送時發生錯誤，原因為：傳送郵件失敗。
+2017/08/23 13:05:13 Error Message:執行Email發送時發生錯誤，原因為：傳送郵件失敗。
+2017/08/29 18:58:40 Error Message:執行Email發送時發生錯誤，原因為：傳送郵件失敗。
+2017/08/29 19:02:31 Error Message:執行Email發送時發生錯誤，原因為：傳送郵件失敗。
+2017/08/30 13:24:51 Error Message:執行Email發送時發生錯誤，原因為：傳送郵件失敗。
+2017/08/30 15:22:18 Error Message:執行Email發送時發生錯誤，原因為：傳送郵件失敗。
+2017/08/30 15:28:55 Error Message:執行Email發送時發生錯誤，原因為：傳送郵件失敗。
+2017/08/30 16:15:35 Error Message:執行Email發送時發生錯誤，原因為：傳送郵件失敗。
+2017/08/31 08:40:53 Error Message:執行Email發送時發生錯誤，原因為：傳送郵件失敗。

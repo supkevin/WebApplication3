@@ -1,0 +1,42 @@
+body {
+  /*background-color:#e47610;*/
+  font-family:"微軟正黑體";
+}
+
+img {
+  text-align:center;
+  padding:10px;
+}
+
+#light-bc {
+  background-color:#ffffff;
+  /*height:500px;*/
+}
+
+#id_footer {
+  height:100px;
+  box-sizing:border-box;
+  position:absolute;
+  bottom:0;
+  width:100%;
+}
+
+#id_wrapper {
+  min-height:100%;
+  position:relative;
+}
+
+#corpname {
+  height:5px;
+  padding:5px;
+}
+
+.info {
+  line-height:10px;
+  text-align:center;
+}
+
+.logo {
+  width:100%;
+}
+

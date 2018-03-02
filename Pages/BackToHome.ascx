@@ -1,0 +1,2 @@
+﻿<%@ Control Language="VB" AutoEventWireup="false" CodeFile="BackToHome.ascx.vb" Inherits="Pages_BackToHome" %>
+<asp:LinkButton ID="LinkPage" runat="server" PostBackUrl="<%= BackToHome %>">回申請頁</asp:LinkButton>

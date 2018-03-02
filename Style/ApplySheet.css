@@ -1,0 +1,96 @@
+﻿body {
+}
+table
+{
+	  width:99%;
+	 margin-top:10px;
+	 margin-left:5px;
+	}
+table.tb1
+{
+	width:99%;
+	margin-left:1px;
+	background-color:rgba(254, 254, 203, 1);
+	}
+table.tb2
+{
+	width:50%;
+	margin-left:1px;
+	background-color:rgba(254, 254, 203, 1);
+	}
+tr
+{
+		 height:auto;
+		
+		}
+td
+{
+	 font-family:@新細明體;
+	 font-size:16px;
+	
+	
+	}
+td.td1
+{
+	 width:250px;
+	 text-align:right;	
+	}
+td.td1_1
+{
+	width:250px;
+	text-align:right;
+	vertical-align:top;
+	}
+td.td2_1
+{
+	text-align:left;
+	color:Red;
+	}
+td.td2
+{
+	text-align:left;
+	
+	}
+td.td3
+{
+	width:100%;
+	
+	}
+.Btn
+{
+	font-size:large;
+	 cursor:pointer;
+	
+	}
+.Btn1
+{
+	 cursor:pointer; 	
+	}
+.Lab
+{
+	font-family:@新細明體;
+	 font-size:16px;
+	 color:Red;
+	 font-weight:bold;	 
+	}
+td.td3
+{
+	 width:20px;
+	 text-align:right;	
+	}
+td.td4
+{
+	 width:480px;
+	 text-align:left;	
+	}
+.imgCode
+{
+    text-align: center;
+    line-height: 100px;
+}
+.RadioBtn
+{
+    font-weight: bold;
+    color: #000000;
+    display: block;
+}

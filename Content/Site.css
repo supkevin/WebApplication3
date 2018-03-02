@@ -1,0 +1,138 @@
+﻿body {
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+
+/* Set padding to keep content from hitting the edges */
+.body-content {
+    padding-left: 115px;
+    padding-right: 115px;
+}
+
+/* Set width on the form input elements since they're 100% wide by default */
+input,
+select,
+textarea {
+   /* max-width: 280px;*/
+}
+
+/* styles for validation helpers */
+.field-validation-error {
+    color: #b94a48;
+}
+
+.field-validation-valid {
+    display: none;
+}
+
+input.input-validation-error {
+    border: 1px solid #b94a48;
+}
+
+input[type="checkbox"].input-validation-error {
+    border: 0 none;
+}
+
+.validation-summary-errors {
+    color: #b94a48;
+}
+
+.validation-summary-valid {
+    display: none;
+}
+
+/* 以下客制*/
+body {
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-family: "微軟正黑體";
+}
+
+#backtop
+{
+    background: #f7f7f7;
+    width: 120px;
+    border: 1px solid #ccc;
+    color: #333;
+    font-family: verdana;
+    font-size: 14px;
+    padding: 5px;
+    text-align: center;
+    position: fixed; /* this is the magic */
+    bottom: 45px; /* together with this to put the div at the bottom*/
+    right: 10px;
+    cursor: pointer;
+    display: none;
+    z-index: 8000;
+}
+
+/*JQuery Validation */
+label.error {             
+        color: red;   
+        display:inline-flex ;                 
+    } 
+
+th {
+    text-align:center;
+    vertical-align :bottom; 
+}
+
+td.SeqNo {
+    text-align:center;
+    vertical-align :middle;
+    font-weight :bolder;  
+}
+
+/*(start)input-group(start)*/
+.double-input .form-control {
+    width: 50%;
+    border-right-width: 0px;
+}
+
+.double-input .form-control:focus {
+    border-right-width: 1px;
+}
+
+.triple-input .form-control {
+    width: 33.3%;
+    border-right-width: 0px;
+}
+
+.triple-input .form-control:focus {
+    border-right-width: 1px;
+}  
+/*(end)input-group(end)*/
+
+div#searcharea{
+        padding: 4px;
+        width: 100%;
+        float: right;
+        background-color: #d9d9d9;
+    }   
+
+/*(start)back-to-top(start)*/
+ #top-link-block.affix-top {
+            position: absolute; /* allows it to "slide" up into view */
+            bottom: -82px; /* negative of the offset - height of link element */
+            right: 10px; /* padding from the left side of the window */
+        }
+#top-link-block.affix {
+    position: fixed; /* keeps it on the bottom once in view */
+    bottom: 18px; /* height of link element */
+    right: 10px; /* padding from the left side of the window */
+}
+/*(end)back-to-top(end)*/
+
+/*(start)NoRecords(start)*/
+div#NoRecords {
+    height: 200px;
+    width: 400px;
+    font-weight :bolder;
+             
+    position: absolute;     /*絕對位置*/
+    top: 50%;               /*從上面開始算，下推 50% (一半) 的位置*/
+    left: 50%;              /*從左邊開始算，右推 50% (一半) 的位置*/
+    margin-top: -100px;     /*高度的一半*/
+    margin-left: -200px;    /*寬度的一半*/ 
+}   
+/*(end)NoRecords(end)*/
