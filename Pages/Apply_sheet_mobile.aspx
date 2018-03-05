@@ -762,18 +762,18 @@
                             </div>
 
                             <div class="form-row">
-                                <div class="form-group col-4">
+                                <div class="form-group col-4 d-none d-sm-block">
                                     <span onclick="document.getElementById('lblMyLink').click();">*圖形驗證碼：</span>
                                     <asp:LinkButton ID="lblMyLink" OnClick="lblMyLink_Click" runat="server" Style="display: none;">My Link</asp:LinkButton>
                                     <asp:TextBox ID="TxtBox_VerifyCode" runat="server"
                                         MaxLength="5" placeholder="請輸入" CssClass="form-control"></asp:TextBox>
                                 </div>
-                                <div class="form-group col-4">
+                                <div class="form-group col-4 d-none d-sm-block">
                                     <br />
                                     <asp:Image ID="imgCode" runat="server" ImageUrl="BuildVerifyChart.aspx" onclick="ChgCode();"
                                         CssClass="imgCode" Height="32px" />
                                 </div>
-                                <div class="form-group col-4">
+                                <div class="form-group col-4 d-none d-sm-block">
                                     <br />
                                     <input type="button" class="btn btn-primary" value="重新產生" onclick="ChgCode();" title="重新產生" />
                                     <asp:Button ID="btnChangeCode" runat="server" Text="重新產生" OnClientClick="ShowProgressBar();"
@@ -1353,7 +1353,7 @@
                             '<%=TxtBox_Bank.UniqueID%>': { required: true, maxlength:20 }, 
                             <%=TxtBox_Account_No.UniqueID%>: { required: true, maxlength:20, digits:true }, //銀行帳戶
                                 
-                            '<%=TxtBox_VerifyCode.UniqueID%>': { required: true},//圖形驗證碼                 
+                            <%--'<%=TxtBox_VerifyCode.UniqueID%>': { required: true},//圖形驗證碼    --%>             
                         },
                         submitHandler: function (form)
                         {         
